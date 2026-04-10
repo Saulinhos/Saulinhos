@@ -1,7 +1,7 @@
 # 🎨✨ **Saulinhos Anima** 👾🎮  
 
 <p align="center">
-  <img src="https://yt3.googleusercontent.com/AW83z4ZyNsL7nnMzGm1UeeUdPNlCPwN5l324JJVOVhIzPXh0AawFV2K_cxKhggOhdTdi-FjXtA=s160-c-k-c0x00ffffff-no-rj" 
+  <img src="https://yt3.googleusercontent.com/JwCH-jcKsDuYA6xGQpJoOy0VuZTMEQAEX84_n4MwNDnDVyzBkiBlo7z7qS6_9xjRTnyZDpe4yQ=s160-c-k-c0x00ffffff-no-rj" 
        alt="Minha foto" 
        width="180" 
        style="border-radius:50%; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
