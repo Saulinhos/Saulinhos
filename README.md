@@ -19,7 +19,7 @@
 ## 🧩 **Sobre mim**  
 - 🎨 **Arte e animação**: Crio personagens e mundos únicos com muito amor pelo detalhe.  
 - 🎮 **Desenvolvimento de jogos**: Trabalho no **GameMaker Studio 2** criando jogos 2D cheios de vida.  
-- 🌐 **Estudante de web**: Aprendendo HTML, CSS e JavaScript no curso **Técnico de Informática para Internet** no **Senai**.  
+- 🌐 **Técnico de Informatica**: Sei HTML, CSS e JavaScript, Pacote Office nível interdemiário, Python e React.  
 - ✨ **Criatividade sempre em foco**: Busco sempre explorar novas formas de criar e expressar.  
 
 ---
